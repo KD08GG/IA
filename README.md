@@ -1,6 +1,5 @@
 # IA
 
-Problem Setup:
 1.Warehouse Layout:
 
 A grid-based warehouse environment (e.g., 10x10 grid).
